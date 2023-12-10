@@ -17,3 +17,4 @@ Line チャンネルに送られた写真が TK(友人)か判定する
 - Python を使用し Azure の FaceAPI に友人の顔写真を学習させる
 - FaceAPI サーバと Line 公式チャンネルを繋ぐ 中継(Webhook)サーバを作成する
 - 中継サーバの処理は Python で作成し、FaceAPI に対するリクエスト、レスポンスを処理し Line チャンネルに返す
+<img width="705" alt="image" src="https://github.com/naitoyuma7110/Line-FaceAI/assets/128150297/431a306f-afd6-4065-9137-857fd69e5950">
