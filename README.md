@@ -1,4 +1,4 @@
-# Line BOT Azure FaceAPI
+# Azure FaceAPIを使用したLineBOT 
 
 Line チャンネルに送られた写真が TK(友人)か判定する  
 写真の表情を読み取り感情分布を出力する
