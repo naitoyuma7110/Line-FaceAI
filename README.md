@@ -9,7 +9,9 @@ Line チャンネルに送られた写真が TK(友人)か判定する
 
 - Line API
 - Azure(FaceAPI)
-- Python(jupyter Notebook)
+- Python
+- jupyter Notebook
+- Flask
 
 ## 概要
 
